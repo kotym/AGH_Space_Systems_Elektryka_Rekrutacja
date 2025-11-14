@@ -1,0 +1,9 @@
+../Core/Src/main.c:84:6:HAL_TIM_PWM_PulseFinishedCallback	2
+../Core/Src/main.c:91:6:SetLED	4
+../Core/Src/main.c:114:6:UpdateLED	5
+../Core/Src/main.c:153:5:main	1
+../Core/Src/main.c:200:6:SystemClock_Config	3
+../Core/Src/main.c:247:13:MX_TIM1_Init	5
+../Core/Src/main.c:317:13:MX_DMA_Init	1
+../Core/Src/main.c:336:13:MX_GPIO_Init	1
+../Core/Src/main.c:365:6:Error_Handler	1
