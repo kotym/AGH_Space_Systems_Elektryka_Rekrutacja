@@ -13,8 +13,8 @@ Zalety: dwustronne, małe, lekkie, wytrzymałe, tanie, dostępne, sprawdzone.<br
 Wady: może być trudne do przylutowania z uwagi na małe konektroy.<br>
 
 
-<b>Zadanie 2.1</b>
-
+<b>Zadanie 2.1</b> <br>
+Wrzuciłem cały folder projektu z STMCubeIDE. Są w nim też pliki cmake.<br>
 <b>Zadanie 2.2</b>
 
 <b>Zadanie 2.3</b>
